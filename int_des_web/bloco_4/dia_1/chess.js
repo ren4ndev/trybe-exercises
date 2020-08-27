@@ -21,4 +21,6 @@ switch (pecaLower) {
     case "king":
         console.log(pecaLower + " -> anywhere to 1");
         break;
+    default:
+        console.log("Essa não é uma peça de Xadrez. Tente novamente em inglês e em apenas uma palavra")
 }
