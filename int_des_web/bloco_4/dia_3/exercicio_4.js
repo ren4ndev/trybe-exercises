@@ -1,18 +1,18 @@
-let n = 20;
-let texto = "";
+let base = 100;
+let text = "";
 let spaces = 0;
-let textoSpaces = "";
-let textoCompleto
+let spacesText = "";
+let fullText;
 
-for (let i = 1; i <= n; i++) {
-    spaces = (n - i) / 2;
+for (let i = 1; i <= base; i++) {
+    spaces = (base - i) / 2;
     for (j = 1; j <= spaces; j++) {
-        textoSpaces = textoSpaces + " ";
+        spacesText = spacesText + " ";
     }
-    texto = texto + "*";
-    textoCompleto = textoSpaces + texto + textoSpaces;
+    text = text + "*";
+    fullText = spacesText + text + spacesText;
     if ((i % 2) !==0) {
-        console.log(textoCompleto);
+        console.log(fullText);
     }    
-    textoSpaces = "";
+    spacesText = "";
 }
