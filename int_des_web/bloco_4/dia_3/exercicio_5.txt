@@ -1,0 +1,8 @@
+Criar variável índice
+Criar a variável maiorNumero que começa com o valor 0
+Pegar o primeiro número da lista
+Testar se o número é maior que o valor da variável maiorNumero
+Se sim, atualizar o valor da variável maiorNumero para o número testado, senão não fazer nada
+Incrementar a variável indíce
+Repetir passos 2-5 até que a variável índice seja o mesmo valor que o número de ítens da lista
+Imprimir a variável maiorNumero

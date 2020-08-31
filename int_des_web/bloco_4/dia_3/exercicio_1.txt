@@ -1,0 +1,5 @@
+Criar variável índice
+Pegar o primeiro número da lista
+Imprimir na tela o número
+Incrementar a variável indíce
+Repetir passos 2-4 até que a variável índice seja o mesmo valor que o número de ítens da lista
