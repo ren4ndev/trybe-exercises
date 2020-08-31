@@ -1,0 +1,8 @@
+Criar variável índice
+Criar a variável quantidadeImpares que começa com o valor 0
+Pegar o primeiro número da lista
+Testar se o número é ímpar
+Se sim, incrementar o valor da variável quantidadeImpares em 1, senão não fazer nada
+Incrementar a variável indíce
+Repetir passos 2-5 até que a variável índice seja o mesmo valor que o número de ítens da lista
+Se a variável quantidadeImpares tiver valor maior que 0, imprimir seu valor, senão imprima: "nenhum valor ímpar encontrado"

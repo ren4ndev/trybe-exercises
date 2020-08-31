@@ -1,0 +1,8 @@
+Criar variável índice
+Criar a variável soma que começa com o valor 0
+Pegar o primeiro número da lista
+Somar o valor do número com o valor da variável soma
+Incrementar a variável indíce
+Repetir passos 2-4 até que a variável índice seja o mesmo valor que o número de ítens da lista
+Dividir o valor da variável soma pelo número de itens da lista (média aritmética) e armazenar o valor numa variável chamada media
+Imprimir a variável media na tela

@@ -1,0 +1,5 @@
+Criar o array vazio
+Criar variável índice
+Adicionar o valor da variável índice ao array
+Incrementar a variável indíce
+Repetir passos 2-4 até que a variável índice seja igual a 25
