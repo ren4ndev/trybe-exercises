@@ -1,4 +1,4 @@
-let base = 100;
+let base = 7;
 let text = "";
 let spaces = 0;
 let spacesText = "";
