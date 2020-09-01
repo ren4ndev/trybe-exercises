@@ -1,5 +1,5 @@
-let a = 21;
-let b = 7;
+function divide (a , b) {
+    return a / b;
+}
 
-let divisao = a / b;
-console.log(divisao);
+console.log(divide(21, 7));

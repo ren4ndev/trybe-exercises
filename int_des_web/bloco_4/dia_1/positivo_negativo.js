@@ -1,9 +1,12 @@
-let numero = -9;
-
-if (numero > 0) {
-    console.log("positivo");
-} else if (numero < 0) {
-    console.log("negativo");
-} else {
-    console.log("zero");
+function positivoOuNegativo (number) {
+    if (number > 0) {
+        console.log("positivo");
+    } else if (number < 0) {
+        console.log("negativo");
+    } else {
+        console.log("zero");
+    }
 }
+
+positivoOuNegativo(-9);
+
