@@ -1,5 +1,5 @@
-let a = 7;
-let b = 14;
+function sum (a , b) {
+    return a + b;
+}
 
-let soma = a + b;
-console.log(soma);
+console.log(sum(8, 7));

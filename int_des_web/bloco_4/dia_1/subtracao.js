@@ -1,5 +1,5 @@
-let a = 21;
-let b = 7;
+function sub (a , b) {
+    return a - b;
+}
 
-let subtracao = a - b;
-console.log(subtracao);
+console.log(sub(21, 7));

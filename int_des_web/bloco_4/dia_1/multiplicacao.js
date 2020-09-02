@@ -1,5 +1,5 @@
-let a = 7;
-let b = 3;
+function multiply (a , b) {
+    return a * b;
+}
 
-let multiplicacao = a * b;
-console.log(multiplicacao);
+console.log(multiply(21, 7));

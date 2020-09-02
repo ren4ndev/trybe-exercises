@@ -1,5 +1,5 @@
-let a = 21;
-let b = 7;
+function mod (a , b) {
+    return a % b;
+}
 
-let modulo = a % b;
-console.log(modulo);
+console.log(mod(21, 7));
