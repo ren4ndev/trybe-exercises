@@ -23,8 +23,3 @@ if (info.recorrente == "Sim" && infoDois.recorrente == "Sim") {
     }
     console.log("Ambos recorrentes");
 }
-
-
-
-
-//NAO FUNCIONOU
