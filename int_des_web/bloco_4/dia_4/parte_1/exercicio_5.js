@@ -12,16 +12,14 @@ let infoDois = {
     recorrente: "Sim" 
 }
 
-for (key in info) {
-    let newString = [];
-    newString.push(`${info[key]} e ${infoDois[key]}`);
-    for (i = 0; i < newString.lentgh -1; i += 1) {
-        console.log(i);
-    }
-}
-
 if (info.recorrente == "Sim" && infoDois.recorrente == "Sim") {
+    let newString = [];
+    for (key in info) {
+        newString.push(`${info[key]} e ${infoDois[key]}`);
+    }
+    newString.pop();
+    for (i in newString) {
+        console.log(newString[i]);
+    }
     console.log("Ambos recorrentes");
 }
-
-//NAO FUNCIONOU

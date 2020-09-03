@@ -1,12 +1,14 @@
-function verificaPalindrome (string) {
-    let newString = [];
-    for (i in string) {
-        newString.push(string[i.length - i])
+function verificaPalindrome(string) {
+    let reverse = string.split("").reverse().join("");
+    if (reverse === string) {
+      return true;
+    } else {
+      return false;
     }
-    return newString;
-};
+}
 
-let newString = verificaPalindrome("arara");
+let newString = verificaPalindrome("desenvolvimento");
 console.log(newString);
 
-//NAO FUNCIONOU
+
+//Exercício resolvido com ajuda do gabarito
