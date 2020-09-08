@@ -67,8 +67,17 @@
 
             //PARTE III
             //Remova todos os elementos da página, menos pai, elementoOndeVoceEsta e primeiroFilhoDoFilho.
-            
-
+            pai.removeChild(primeiroFilho);
+            pai.removeChild(terceiroFilho);
+            let quartoEUltimoFilho = document.querySelector('#quartoEUltimoFilho');
+            pai.removeChild(quartoEUltimoFilho);
+            pai.removeChild(irmao);
+            let segundoEUltimoFilhoDoFilho = document.querySelector('#segundoEUltimoFilhoDoFilho');
+            elementoOndeVoceEsta.removeChild(segundoEUltimoFilhoDoFilho);
+            elementoOndeVoceEsta.removeChild(filho);
+            primeiroFilhoDoFilho.removeChild(filhoDois);
+            let paiDoPai = document.querySelector('#paiDoPai');
+            document.body.removeChild(paiDoPai)
         </script>
     </body>
 </html>
