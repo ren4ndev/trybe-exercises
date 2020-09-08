@@ -19,16 +19,17 @@
             </div>
         </div>
         <script>
-            
+            //PARTE I
             //1. Acesse o elemento elementoOndeVoceEsta.
             let elementoOndeVoceEsta = document.querySelector('#elementoOndeVoceEsta');
 
             //2. Acesse pai a partir de elementoOndeVoceEsta e adicione uma color a ele.
-            let pai = elementoOndeVoceEsta.parentNode.parentNode;
+            let pai = elementoOndeVoceEsta.parentNode;
             pai.style.color = "red";
 
             //3. Acesse o primeiroFilhoDoFilho e adicione um texto a ele. Você se lembra dos vídeos da aula anterior, como fazer isso?
-            document.querySelector('#primeiroFilhoDoFilho').innerText = "Filho do filho";
+            let primeiroFilhoDoFilho = document.querySelector('#primeiroFilhoDoFilho');
+            primeiroFilhoDoFilho.innerText = "Filho do filho";
 
             //4. Acesse o primeiroFilho a partir de pai. ???????????
             let primeiroFilho = document.querySelector('#pai').firstElementChild; 
@@ -44,7 +45,30 @@
 
             //8. Agora acesse o terceiroFilho a partir de pai.
             let terceiroFilhoAgain = document.querySelector('#pai').firstElementChild.nextElementSibling.nextElementSibling;
+
+            //PARTE II
+            //1. Crie um irmão para elementoOndeVoceEsta.
+            let irmao = document.createElement('div');
+            irmao.classList.add('irmaoElementoOndeVoceEsta');
+            pai.appendChild(irmao);
+
+            //2. Crie um filho para elementoOndeVoceEsta.
+            let filho = document.createElement('div');
+            filho.classList.add('filhoElementoOndeVoceEsta');
+            elementoOndeVoceEsta.appendChild(filho);
             
+            //3. Crie um filho para primeiroFilhoDoFilho.
+            let filhoDois = document.createElement('div');
+            filhoDois.classList.add('filhoDois');
+            primeiroFilhoDoFilho.appendChild(filhoDois);
+            
+            //4. A partir desse filho criado, acesse terceiroFilho.
+            document.querySelector('.filhoDois').parentNode.parentNode.nextElementSibling;
+
+            //PARTE III
+            //Remova todos os elementos da página, menos pai, elementoOndeVoceEsta e primeiroFilhoDoFilho.
+            
+
         </script>
     </body>
 </html>
