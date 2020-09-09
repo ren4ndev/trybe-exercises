@@ -11,14 +11,38 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 ##### Bloco 1: Introdução - Unix & Shell
 
 - [X] 1-3: _Unix & Bash - Part 1_
+  - [X] Conteúdo
+  - [X] Quiz
+  - [X] Exercícios - Parte I
+  - [X] Exercícios - Parte II
 - [X] 1-4: _Unix & Bash - Part 2_
+  - [X] Conteúdo
+  - [X] Quiz
+  - [X] Exercícios - Parte I
+  - [X] Exercícios - Parte II
+  - [X] Exercícios - Parte III
 - [X] 1-5: _Shell Script_
+  - [X] Conteúdo
+  - [X] Exercícios
 
 ##### Bloco 2: Git & GitHub
 
 - [X] 2-1: _O que é e para que serve?_
+  - [X] Conteúdo
+  - [X] Quiz
+  - [X] Exercícios - Parte I
+  - [X] Exercícios - Parte II
+  - [X] Exercícios - Parte III
+  - [X] Exercícios - Parte IV
+  - [X] Exercícios - Parte V
 - [X] 2-2: _Entendendo os comandos_
+  - [X] Conteúdo
+  - [X] Quiz
+  - [X] Exercícios
 - [X] 2-3: _Internet - Entendendo como ela funciona_
+  - [X] Conteúdo - Parte I
+  - [X] Conteúdo - Parte II
+  - [X] Dinâmica
 
 ##### Bloco 3: Introdução - HTML & CSS
 
