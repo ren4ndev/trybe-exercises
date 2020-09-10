@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset=utf-8 />
+        <title>Calculator</title>
+    </head>
+    <body>
+
+        <label>Square this number:
+            <input type="number" id="square-input" size="2">
+        </label>
+        <button id="square-button">Calculate</button>
+        <br><br>
+        
+        <label>Half this number:
+            <input type="number" id="half-input" size="2">
+        </label>
+        <button id="half-button">Calculate</button>
+        <br><br>
+        
+        <label>
+            Fraction:
+            <input type="number" id="percent1-input" size="2">
+        </label>
+        <label>
+            Whole:
+            <input type="number" id="percent2-input" size="2">
+        </label>
+        <button id="percent-button">Calculate</button>
+        <br><br>
+        
+        <label>Calculate area of circle with radius:
+            <input type="number" id="area-input" size="2">
+        </label>
+        <button id="area-button">Calculate</button> 
+        <br><br>
+        <div id="solution"></div>
+
+        <script>
+            //1. Add a script tag, and add the functions from the calculator exercise (view the solution if you haven't done it yet).
+
+            function squareNumber(num) {
+                var squaredNumber = num * num;
+                console.log('The result of squaring the number ' + num + ' is ' + squaredNumber);
+                return squaredNumber;
+            }
+
+            function halfOf(num) {
+                var half = num / 2;
+                console.log('Half of ' + num + ' is ' +  half);
+                return half;
+            }
+
+            function percentOf(num1, num2) {
+                var percent = (num1/num2) * 100;
+                console.log(num1 + ' is ' + percent + '% of ' + num2);
+                return percent;
+            }
+
+            function areaOfCircle(radius) {
+                var area = Math.PI * squareNumber(radius);
+                console.log('The area of circle with radius ' + radius + ' is ' + area);
+                return area;
+            }
+
+            //2. For each operation, create an event listener for the button, and when it's clicked, find the value of the appropriate input and show the result of the calculation in the solution div.
+            let resultado = document.querySelector('#solution');
+            
+            let buttonSquare = document.querySelector('#square-button');
+            buttonSquare.addEventListener('keypress', function(){
+                let inputSquare = document.querySelector('#square-input');
+                let valorSquare = parseInt(inputSquare.value);
+                let result = squareNumber(valorSquare);
+                resultado.innerText = result;
+            });
+
+            let buttonHalf = document.querySelector('#half-button');
+            buttonHalf.addEventListener('keypress', function() {
+                let inputHalf = document.querySelector('#half-input');
+                let valorHalf = inputHalf.value;
+                let result = halfOf(valorHalf);
+                resultado.innerText = result;
+            });
+
+            let buttonPercent = document.querySelector('#percent-button');
+            buttonPercent.addEventListener('keypress', function(){
+                let inputPercent1 = document.querySelector('#percent1-input');
+                let valorPercent1 = inputPercent1.value;
+                let inputPercent2 = document.querySelector('#percent2-input');
+                let valorPercent2 = inputPercent2.value;
+                let result = percentOf(valorPercent1, valorPercent2);
+                resultado.innerText = result;
+            });
+            
+
+            let buttonArea = document.querySelector('#area-button');
+            buttonArea.addEventListener('keypress', function(){
+                let inputArea = document.querySelector('#area-input');
+                let valorArea = inputArea.value;
+                let result = areaOfCircle(valorArea);
+                resultado.innerText = result;
+            });
+
+            //3. Bonus: respond to key presses so that the user doesn't have to click the button.
+
+        </script>
+    
+    </body>
+</html>
