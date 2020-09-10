@@ -6,7 +6,6 @@
     <title>Exercício - Parte 2</title>
     <!-- Seu código JavaScript pode vir aqui -->
     <!-- Seu código JavaScript pode vir aqui -->
-    <!-- Seu código JavaScript pode vir aqui -->
   </head>
   <body>
     <div>
@@ -35,10 +34,18 @@
         <strong>discount</strong> o resultado da multiplicação.
       </p>
       <script language="javascript" type="text/javascript">
-        //JavaScript para a tarefa 2
-        //JavaScript para a tarefa 2
-        //JavaScript para a tarefa 2
+        window.onload = function(){
+          let button2 = document.querySelector('#button2');
+          button2.addEventListener('click', function(){
+            let productPrice = 59.99;
+            let discount = 0.30;
+            let totalDiscount = productPrice * discount;
+            alert(`Desconto de R$${totalDiscount}`);
+          })
+        }     
+
       </script>
+      <button id="button2">Calcular Desconto</button>
       <hr />
       <h2>Bônus</h2>
       <p>
@@ -54,7 +61,7 @@
         Além disso, sempre que um dos eventos for realizado deve-se logar no
         console qual dos eventos acabou de ocorrer.
       </p>
-      <!-- Adicione a tag <img /> aqui -->
     </div>
+    <script src="script.js"></script>
   </body>
 </html>
