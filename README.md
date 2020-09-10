@@ -11,18 +11,25 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 ##### Bloco 1: Introdução - Unix & Shell
 
 - [X] 1-3: _Unix & Bash - Part 1_
-  - [X] Conteúdo
+  - [X] Conteúdo - Unix - Conhecendo a estrutura de arquivos e o terminal
+  - [X] Conteúdo - Unix - Trabalhando com diretório
+  - [X] Conteúdo - Unix - Operações com arquivos e diretórios
+  - [X] Conteúdo - Unix - Nomeando arquivos e como procurar ajuda no Terminal
   - [X] Quiz
-  - [X] Exercícios - Parte I
-  - [X] Exercícios - Parte II
+  - [X] Exercícios - Parte I - Criação de arquivos e diretórios
+  - [X] Exercícios - Parte II - Manipulação & Busca
 - [X] 1-4: _Unix & Bash - Part 2_
-  - [X] Conteúdo
+  - [X] Conteúdo - Unix - Inputs e outputs no terminal
+  - [X] Conteúdo - Unix - Direitos de acesso e lidando com processos
   - [X] Quiz
-  - [X] Exercícios - Parte I
-  - [X] Exercícios - Parte II
-  - [X] Exercícios - Parte III
+  - [X] Exercícios - Parte I - Comandos de Input e Output
+  - [X] Exercícios - Parte II - Permissões
+  - [X] Exercícios - Parte III - Processos & Jobs
 - [X] 1-5: _Shell Script_
-  - [X] Conteúdo
+  - [X] Conteúdo - Usando o VSCode
+  - [X] Conteúdo - Iniciando um código em Shell Script
+  - [X] Conteúdo - Variáveis
+  - [X] Conteúdo - Condições e operadores relacionais
   - [X] Exercícios
 
 ##### Bloco 2: Git & GitHub
@@ -73,6 +80,9 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
   - [X] Exercícios - Parte III
   - [X] Exercícios - Parte IV 
 - [ ] 5-4: _JavaScript - Web Storage_
+  - [ ] Conteúdo - Cookies
+  - [ ] Conteúdo - Local e Session Storage
+  - [ ] Exercícios
 - [ ] 5-5: _[Projeto - Meme Generator]()_
 - [ ] 5-6: _[Projeto - Arte com Pixels]()_
 - [ ] 5-7: _[Projeto - Lista de tarefas]()_
