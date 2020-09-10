@@ -4,35 +4,7 @@
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <title>Document</title>
-        <style>
-            body {
-                padding: 50px;
-                background-color: beige;
-            }
-            #settings {
-                position: absolute;
-                top: calc(100vh - 450px);
-                left: calc(100vw - 400px);
-                width: 300px;
-                height: 400px;
-                border-radius: 10%;
-                background-color: white;
-                box-shadow: 10px 10px 10px;
-                text-align: center;
-                padding-top: 20px;
-                /*display: none;*/
-            }
-            .label {
-                display: block;
-                margin-top: 5px;
-                margin-bottom: 5px;
-            }
-
-            .input {
-                margin-bottom: 5px;
-            }
-            
-        </style>
+        <link rel="stylesheet" href="style.css">
     </head>
     <body>
         <section id="texto">
@@ -83,27 +55,18 @@
                 <option value="bege">Bege</option>
             </select>
 
-            <label class="label" for="">Espaçamento</label>
-            <select class="input" name="fundo" id="fundo">
+            <label class="label" for="espacamento">Espaçamento</label>
+            <select class="input" name="espacamento" id="espacamento">
                 <option value="pequeno">Pequeno</option>
                 <option value="medio">Médio</option>
                 <option value="grande">Grande</option>
             </select>
+            <button id="aplicar">Aplicar</button>
         </div>
 
+        <button id="open">+</button>
 
-
+        <script src="script.js"></script>
     </body>
-    <script>
-        let pagina = document.querySelector('body');
-
-        let fonte = document.querySelector('#fonte');
-        if (fonte.value == "sans") {
-            pagina.style.fontFamily = "sans-serif";
-        } else if (fonte.value == "serif") {
-            pagina.style.fontFamily = "serif";
-        } else if (fonte.value == "monospace") {
-            pagina.style.fontFamily = "monospace";
-        }
-    </script>
+    
 </html>
