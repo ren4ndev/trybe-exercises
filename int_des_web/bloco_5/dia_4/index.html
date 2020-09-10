@@ -96,6 +96,14 @@
     </body>
     <script>
         let pagina = document.querySelector('body');
-        console.log(pagina);
+
+        let fonte = document.querySelector('#fonte');
+        if (fonte.value == "sans") {
+            pagina.style.fontFamily = "sans-serif";
+        } else if (fonte.value == "serif") {
+            pagina.style.fontFamily = "serif";
+        } else if (fonte.value == "monospace") {
+            pagina.style.fontFamily = "monospace";
+        }
     </script>
 </html>
