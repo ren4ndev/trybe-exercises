@@ -79,10 +79,10 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
   - [X] Exercícios - Parte II
   - [X] Exercícios - Parte III
   - [X] Exercícios - Parte IV 
-- [ ] 5-4: _JavaScript - Web Storage_
-  - [ ] Conteúdo - Cookies
-  - [ ] Conteúdo - Local e Session Storage
-  - [ ] Exercícios
+- [X] 5-4: _JavaScript - Web Storage_
+  - [X] Conteúdo - Cookies
+  - [X] Conteúdo - Local e Session Storage
+  - [X] Exercícios
 - [ ] 5-5: _[Projeto - Meme Generator]()_
 - [ ] 5-6: _[Projeto - Arte com Pixels]()_
 - [ ] 5-7: _[Projeto - Lista de tarefas]()_
