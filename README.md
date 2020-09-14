@@ -65,7 +65,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [X] 4-2: _JavaScript - Array e loop For_
 - [X] 4-3: _JavaScript - Lógica de Programação e Algoritmos_
 - [X] 4-4: _JavaScript - Objetos e funções_
-- [X] 4-5: _[Projeto - Playground Functions]()_
+- [X] 4-5: _[Projeto - Playground Functions](https://github.com/tryber/sd-07-project-playground-functions/pull/98)_
 
 ##### Bloco 5: Introdução - JavaScript - Projetos
 
@@ -83,8 +83,8 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
   - [X] Conteúdo - Cookies
   - [X] Conteúdo - Local e Session Storage
   - [X] Exercícios
-- [X] 5-5: _[Projeto - Meme Generator]()_
-- [X] 5-6: _[Projeto - Arte com Pixels]()_
+- [X] 5-5: _[Projeto - Meme Generator](https://github.com/tryber/sd-07-block5-project-meme-generator/pull/117)_
+- [X] 5-6: _[Projeto - Arte com Pixels](https://github.com/tryber/sd-07-block5-project-pixels-art/pull/60)_
 - [ ] 5-7: _[Projeto - Lista de tarefas]()_
 - [ ] 5-7: _[Projeto - Adivinhe a Cor]()_
 - [ ] 5-7: _[Projeto - Carta Misteriosa]()_
