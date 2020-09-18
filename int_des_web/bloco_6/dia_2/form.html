@@ -1,11 +1,12 @@
 <!DOCTYPE html>
 <html lang="en">
-  <head>
-    <meta charset="UTF-8" />
+	<head>
+		<meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Document</title>
 		<link rel="stylesheet" href="css/bulma.min.css" />
 		<link rel="stylesheet" href="css/style.css">
+		<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/pikaday/css/pikaday.css">
   </head>
   <body>
     <section class="section">
@@ -117,13 +118,13 @@
 			<div class="field">
 				<label class="label" for="data-inicio">Data de Início</label>
 				<div class="control">
-					<input class="input" type="date" name="data-inicio" required="required" />
+					<input id="datepicker" class="input" type="text" name="data-inicio" required="required" />
 				</div>
 			</div>
 
 			<div class="field is-grouped">
 				<div class="control">
-					<button class="button is-success">Enviar</button>
+					<button class="button is-success" id="btn-submit">Enviar</button>
 				</div>
 				<div class="control">
 					<button class="button is-primary">Redefinir</button>
@@ -131,7 +132,8 @@
 			</div>
 		</section>
 		
-    <script src="estados.js"></script>
-    <script src="script.js"></script>
+		<script src="lib/estados.js"></script>
+		<script src="https://cdn.jsdelivr.net/npm/pikaday/pikaday.js"></script>
+		<script src="script.js"></script>
   </body>
 </html>
