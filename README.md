@@ -85,14 +85,18 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
   - [X] Exercícios
 - [X] 5-5: _[Projeto - Meme Generator](https://github.com/tryber/sd-07-block5-project-meme-generator/pull/117)_
 - [X] 5-6: _[Projeto - Arte com Pixels](https://github.com/tryber/sd-07-block5-project-pixels-art/pull/60)_
-- [ ] 5-7: _[Projeto - Lista de tarefas]()_
+- [X] 5-7: _[Projeto - Lista de tarefas](https://github.com/tryber/sd-07-block5-project-todo-list/pull/56)_
 - [ ] 5-7: _[Projeto - Adivinhe a Cor]()_
 - [ ] 5-7: _[Projeto - Carta Misteriosa]()_
 
 ##### Bloco 6: Introdução - Front-end
 
 - [ ] 6-1: _HTML & CSS - Forms_
+  - [X] Conteúdo - Parte I
+  - [ ] Exercícios - Parte I
 - [ ] 6-2: _Bibliotecas JavaScript e Frameworks CSS_
+  - [ ] Conteúdo - Parte I
+  - [ ] Exercícios - Parte I
 - [ ] 6-3: _CSS Flexbox - Part 1_
 - [ ] 6-4: _CSS Flexbox - Part 2_
 - [ ] 6-5: _CSS Responsivo - Mobile First_
