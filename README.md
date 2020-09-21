@@ -1,5 +1,5 @@
 # Trybe
-
+https://css-tricks.com/snippets/css/a-guide-to-flexbox/
 Este repositório contém todas as atividades de aprendizagem desenvolvidas por _[Renan Oliveira](https://www.linkedin.com/in/renancoliveira/)_ enquanto estuda na [Trybe](https://www.betrybe.com/) :rocket:
 
 _"A Trybe é uma escola do futuro para qualquer pessoa que queira melhorar de vida e construir uma carreira de sucesso em tecnologia, onde a pessoa só paga quando conseguir um bom trabalho."_
@@ -90,7 +90,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [ ] 5-7: _[Projeto - Carta Misteriosa]()_
 
 ##### Bloco 6: Introdução - Front-end
-
+https://css-tricks.com/snippets/css/a-guide-to-flexbox/
 - [X] 6-1: _HTML & CSS - Forms_
   - [X] Conteúdo - Parte I
   - [X] Exercícios - Parte I
@@ -98,6 +98,9 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
   - [X] Conteúdo - Parte I
   - [X] Exercícios - Parte I
 - [ ] 6-3: _CSS Flexbox - Part 1_
+  - [X] Conteúdo - Estrutura báscia, flex-direction, flex-wrap, flex-flow e reverse
+  - [X] Conteúdo - Propriedades justify-content, align-content, align items
+  - [ ] Exercícios
 - [ ] 6-4: _CSS Flexbox - Part 2_
 - [ ] 6-5: _CSS Responsivo - Mobile First_
 - [ ] 6-6: _[Projeto - Página inicial do Facebook]()_
