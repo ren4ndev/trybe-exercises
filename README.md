@@ -97,10 +97,10 @@ https://css-tricks.com/snippets/css/a-guide-to-flexbox/
 - [X] 6-2: _Bibliotecas JavaScript e Frameworks CSS_
   - [X] Conteúdo - Parte I
   - [X] Exercícios - Parte I
-- [ ] 6-3: _CSS Flexbox - Part 1_
+- [X] 6-3: _CSS Flexbox - Part 1_
   - [X] Conteúdo - Estrutura báscia, flex-direction, flex-wrap, flex-flow e reverse
   - [X] Conteúdo - Propriedades justify-content, align-content, align items
-  - [ ] Exercícios
+  - [X] Exercícios
 - [ ] 6-4: _CSS Flexbox - Part 2_
 - [ ] 6-5: _CSS Responsivo - Mobile First_
 - [ ] 6-6: _[Projeto - Página inicial do Facebook]()_
