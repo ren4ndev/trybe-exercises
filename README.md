@@ -127,7 +127,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [ ] 5-7: _[Projeto - Carta Misteriosa]()_
 
 ##### Bloco 6: Introdução - Front-end
-https://css-tricks.com/snippets/css/a-guide-to-flexbox/
+
 - [X] 6-1: _HTML & CSS - Forms_
   - [X] Conteúdo - Parte I
   - [X] Exercícios - Parte I
