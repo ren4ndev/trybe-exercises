@@ -54,23 +54,60 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 ##### Bloco 3: Introdução - HTML & CSS
 
 - [X] 3-1: _HTML & CSS - Estruturas de página_
+  - [X] Conteúdo Parte I
+  - [X] Conteúdo Parte I
+  - [X] Exercícios
 - [X] 3-2: _HTML & CSS - Primeiros passos em CSS_
+  - [X] Conteúdo Parte I
+  - [X] Conteúdo Parte II
+  - [X] Conteúdo Parte III
+  - [X] Exercícios
 - [X] 3-3: _HTML & CSS - Seletores e posicionamento_
+   - [X] Conteúdo Parte I
+   - [X] Conteúdo Parte II
+   - [X] Exercícios
 - [X] 3-4: _HTML Semântico_
+  - [X] Conteúdo - Aplicando elementos HTML de acordo com o sentido
+  - [X] Conteúdo - ovos elementos semânticos introduzidos com HTML5
+  - [X] Conteúdo - Elementos de bloco e elementos inline
+  - [X] Exercícios
 - [X] 3-5: _[Projeto - HTML & CSS](https://github.com/ren4ndev/project-lessons-learned)_
 
 ##### Bloco 4: Introdução - JavaScript
 
 - [X] 4-1: _JavaScript - Primeiros passos_
+  - [X] Conteúdo - Parte I
+  - [X] Conteúdo - Parte II
+  - [X] Conteúdo - Parte III
+  - [X] Exercícios
 - [X] 4-2: _JavaScript - Array e loop For_
+  - [X] Conteúdo - Array
+  - [X] Conteúdo - For
+  - [X] Exercícios
 - [X] 4-3: _JavaScript - Lógica de Programação e Algoritmos_
+  - [X] Conteúdo - Lógica de programação
+  - [X] Conteúdo - Algoritmos
+  - [X] Exercícios
 - [X] 4-4: _JavaScript - Objetos e funções_
+  - [X] Conteúdo - Objetos
+  - [X] Conteúdo - For/in
+  - [X] Conteúdo - Funções
+  - [X] Exercícios - Parte I
+  - [X] Exercícios - Parte II
 - [X] 4-5: _[Projeto - Playground Functions](https://github.com/tryber/sd-07-project-playground-functions/pull/98)_
 
 ##### Bloco 5: Introdução - JavaScript - Projetos
 
 - [X] 5-1: _JavaScript - DOM e seletores_
+  - [X] Conteúdo - O DOM. Ou: como o HTML e o JavaScript se comunicam?
+  - [X] Conteúdo - Seletores de elementos
+  - [X] Conteúdo - Qual seletor usar?
+  - [X] Exercícios
 - [X] 5-2: _JavaScript - Trabalhando com elementos_
+  -[X] Conteúdo - Buscando elementos
+  -[X] Conteúdo - Criando elementos
+  -[X] Conteúdo - Removendo elementos
+  -[X] Exercícios
 - [X] 5-3: _JavaScript - Eventos_
   - [X] Conteúdo - Parte I
   - [X] Conteúdo - Parte II
