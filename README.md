@@ -138,7 +138,13 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
   - [X] Conteúdo - Estrutura báscia, flex-direction, flex-wrap, flex-flow e reverse
   - [X] Conteúdo - Propriedades justify-content, align-content, align items
   - [X] Exercícios
-- [ ] 6-4: _CSS Flexbox - Part 2_
+- [X] 6-4: _CSS Flexbox - Part 2_
+  - [X] Conteúdo - Propriedade: align-self
+  - [X] Conteúdo - Propriedade: order
+  - [X] Conteúdo - Propriedades: flex-grow, flex-shrink, flex-basis
+  - [X] Conteúdo - Propriedade: Margin
+  - [X] Conteúdo - Subcontainers e subitens
+  - [X] Exercícios
 - [ ] 6-5: _CSS Responsivo - Mobile First_
 - [ ] 6-6: _[Projeto - Página inicial do Facebook]()_
 
