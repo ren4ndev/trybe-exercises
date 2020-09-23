@@ -146,6 +146,12 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
   - [X] Conteúdo - Subcontainers e subitens
   - [X] Exercícios
 - [ ] 6-5: _CSS Responsivo - Mobile First_
+  - [ ] Conteúdo - Parte I
+  - [ ] Conteúdo - Parte II
+  - [ ] Conteúdo - Parte III
+  - [ ] Exercícios - Parte I
+  - [ ] Exercícios - Parte II
+  - [ ] Exercícios - Parte III
 - [ ] 6-6: _[Projeto - Página inicial do Facebook]()_
 
 ##### Bloco 7: JavaScript ES6 & Testes Unitários
