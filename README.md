@@ -145,18 +145,23 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
   - [X] Conteúdo - Propriedade: Margin
   - [X] Conteúdo - Subcontainers e subitens
   - [X] Exercícios
-- [ ] 6-5: _CSS Responsivo - Mobile First_
-  - [ ] Conteúdo - Parte I
-  - [ ] Conteúdo - Parte II
-  - [ ] Conteúdo - Parte III
-  - [ ] Exercícios - Parte I
-  - [ ] Exercícios - Parte II
-  - [ ] Exercícios - Parte III
+- [X] 6-5: _CSS Responsivo - Mobile First_
+  - [X] Conteúdo - Parte I
+  - [X] Conteúdo - Parte II
+  - [X] Conteúdo - Parte III
+  - [X] Exercícios - Parte I
+  - [X] Exercícios - Parte II
+  - [X] Exercícios - Parte III
 - [ ] 6-6: _[Projeto - Página inicial do Facebook]()_
 
 ##### Bloco 7: JavaScript ES6 & Testes Unitários
 
 - [ ] 7-1: _JavaScript ES6 - let, const, arrow functions e template literals_
+  - [X] Conteúdo - Parte I var, let e const
+  - [X] Conteúdo - Parte II template literals
+  - [X] Conteúdo - Parte III arrow functions
+  - [ ] Exercícios - Parte I
+  - [ ] Exercícios - Parte II
 - [ ] 7-2: _JavaScript ES6 - Objects_
 - [ ] 7-3: _Testes unitários em JavaScript_
 - [ ] 7-4: _[Projeto - JavaScript Testes Unitários]()_
