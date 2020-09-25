@@ -1,0 +1,30 @@
+html {
+  box-sizing: border-box;
+}
+*,
+*:before,
+*:after {
+  box-sizing: inherit;
+}
+
+.container {
+    margin: 20px;
+}
+
+header p {
+    font-size: 2em;
+    text-align: center;
+}
+
+nav ul {
+    display: flex;
+    justify-content: center;
+    padding-left: 0;
+}
+
+nav ul li {
+    flex: 0 1 30%;
+    font-size: 1.3em;
+    list-style: none;
+    text-align: center;
+}
