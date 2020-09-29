@@ -155,13 +155,20 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 
 ##### Bloco 7: JavaScript ES6 & Testes Unitários
 
-- [ ] 7-1: _JavaScript ES6 - let, const, arrow functions e template literals_
+- [X] 7-1: _JavaScript ES6 - let, const, arrow functions e template literals_
   - [X] Conteúdo - Parte I var, let e const
   - [X] Conteúdo - Parte II template literals
   - [X] Conteúdo - Parte III arrow functions
-  - [ ] Exercícios - Parte I
-  - [ ] Exercícios - Parte II
-- [ ] 7-2: _JavaScript ES6 - Objects_
+  - [X] Exercícios - Parte I
+  - [X] Exercícios - Parte II
+- [X] 7-2: _JavaScript ES6 - Objects_
+  - [X] Conteúdo - Parte I - Adicionando novas chaves (keys)
+  - [X] Conteúdo - Parte II - Object.keys
+  - [X] Conteúdo - Parte III - Object.values
+  - [X] Conteúdo - Parte IV - Object.entries
+  - [X] Conteúdo - Parte IV - Object.assign
+  - [X] Exercícios - Parte I
+  - [X] Exercícios - Parte II
 - [ ] 7-3: _Testes unitários em JavaScript_
 - [ ] 7-4: _[Projeto - JavaScript Testes Unitários]()_
 
