@@ -151,7 +151,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
   - [X] Exercícios - Parte I
   - [X] Exercícios - Parte II
   - [X] Exercícios - Parte III
-- [ ] 6-6: _[Projeto - Página inicial do Facebook]()_
+- [X] 6-6: _[Projeto - Página inicial do Facebook](https://github.com/tryber/sd-07-project-facebook-signup/pull/36)_
 
 ##### Bloco 7: JavaScript ES6 & Testes Unitários
 
@@ -169,9 +169,9 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
   - [X] Conteúdo - Parte IV - Object.assign
   - [X] Exercícios - Parte I
   - [X] Exercícios - Parte II
-- [ ] 7-3: _Testes unitários em JavaScript_
-  - [ ] Conteúdo
-  - [ ] Exercícios
+- [X] 7-3: _Testes unitários em JavaScript_
+  - [X] Conteúdo
+  - [X] Exercícios
 - [ ] 7-4: _[Projeto - JavaScript Testes Unitários]()_
 
 ##### Bloco 8: JavaScript ES6
