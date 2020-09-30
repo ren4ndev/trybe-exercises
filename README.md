@@ -7,9 +7,9 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 
 ## Fundamentos do Desenvolvimento Web :white_check_mark:
 
-##### Bloco 1: Introdução - Unix & Shell
+##### Bloco 1: Introdução - Unix & Shell :rocket:
 
-- [X] 1-3: _Unix & Bash - Part 1_
+- [X] 1-3: _Unix & Bash - Part 1_ :heavy_check_mark:
   - [X] Conteúdo - Unix - Conhecendo a estrutura de arquivos e o terminal
   - [X] Conteúdo - Unix - Trabalhando com diretório
   - [X] Conteúdo - Unix - Operações com arquivos e diretórios
@@ -17,23 +17,23 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
   - [X] Quiz
   - [X] Exercícios - Parte I - Criação de arquivos e diretórios
   - [X] Exercícios - Parte II - Manipulação & Busca
-- [X] 1-4: _Unix & Bash - Part 2_
+- [X] 1-4: _Unix & Bash - Part 2_ :heavy_check_mark:
   - [X] Conteúdo - Unix - Inputs e outputs no terminal
   - [X] Conteúdo - Unix - Direitos de acesso e lidando com processos
   - [X] Quiz
   - [X] Exercícios - Parte I - Comandos de Input e Output
   - [X] Exercícios - Parte II - Permissões
   - [X] Exercícios - Parte III - Processos & Jobs
-- [X] 1-5: _Shell Script_
+- [X] 1-5: _Shell Script_ :heavy_check_mark:
   - [X] Conteúdo - Usando o VSCode
   - [X] Conteúdo - Iniciando um código em Shell Script
   - [X] Conteúdo - Variáveis
   - [X] Conteúdo - Condições e operadores relacionais
   - [X] Exercícios
 
-##### Bloco 2: Git & GitHub
+##### Bloco 2: Git & GitHub :rocket:
 
-- [X] 2-1: _O que é e para que serve?_
+- [X] 2-1: _O que é e para que serve?_ :heavy_check_mark:
   - [X] Conteúdo
   - [X] Quiz
   - [X] Exercícios - Parte I
@@ -41,53 +41,53 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
   - [X] Exercícios - Parte III
   - [X] Exercícios - Parte IV
   - [X] Exercícios - Parte V
-- [X] 2-2: _Entendendo os comandos_
+- [X] 2-2: _Entendendo os comandos_ :heavy_check_mark:
   - [X] Conteúdo
   - [X] Quiz
   - [X] Exercícios
-- [X] 2-3: _Internet - Entendendo como ela funciona_
+- [X] 2-3: _Internet - Entendendo como ela funciona_ :heavy_check_mark:
   - [X] Conteúdo - Parte I
   - [X] Conteúdo - Parte II
   - [X] Dinâmica
 
-##### Bloco 3: Introdução - HTML & CSS
+##### Bloco 3: Introdução - HTML & CSS :rocket:
 
-- [X] 3-1: _HTML & CSS - Estruturas de página_
+- [X] 3-1: _HTML & CSS - Estruturas de página_ :heavy_check_mark:
   - [X] Conteúdo Parte I
   - [X] Conteúdo Parte I
   - [X] Exercícios
-- [X] 3-2: _HTML & CSS - Primeiros passos em CSS_
+- [X] 3-2: _HTML & CSS - Primeiros passos em CSS_ :heavy_check_mark:
   - [X] Conteúdo Parte I
   - [X] Conteúdo Parte II
   - [X] Conteúdo Parte III
   - [X] Exercícios
-- [X] 3-3: _HTML & CSS - Seletores e posicionamento_
+- [X] 3-3: _HTML & CSS - Seletores e posicionamento_ :heavy_check_mark:
    - [X] Conteúdo Parte I
    - [X] Conteúdo Parte II
    - [X] Exercícios
-- [X] 3-4: _HTML Semântico_
+- [X] 3-4: _HTML Semântico_ :heavy_check_mark:
   - [X] Conteúdo - Aplicando elementos HTML de acordo com o sentido
   - [X] Conteúdo - ovos elementos semânticos introduzidos com HTML5
   - [X] Conteúdo - Elementos de bloco e elementos inline
   - [X] Exercícios
-- [X] 3-5: _[Projeto - HTML & CSS](https://github.com/ren4ndev/project-lessons-learned)_
+- [X] 3-5: _[Projeto - HTML & CSS](https://github.com/ren4ndev/project-lessons-learned)_ :heavy_check_mark:
 
-##### Bloco 4: Introdução - JavaScript
+##### Bloco 4: Introdução - JavaScript :rocket:
 
-- [X] 4-1: _JavaScript - Primeiros passos_
+- [X] 4-1: _JavaScript - Primeiros passos_ :heavy_check_mark:
   - [X] Conteúdo - Parte I
   - [X] Conteúdo - Parte II
   - [X] Conteúdo - Parte III
   - [X] Exercícios
-- [X] 4-2: _JavaScript - Array e loop For_
+- [X] 4-2: _JavaScript - Array e loop For_ :heavy_check_mark:
   - [X] Conteúdo - Array
   - [X] Conteúdo - For
   - [X] Exercícios
-- [X] 4-3: _JavaScript - Lógica de Programação e Algoritmos_
+- [X] 4-3: _JavaScript - Lógica de Programação e Algoritmos_ :heavy_check_mark:
   - [X] Conteúdo - Lógica de programação
   - [X] Conteúdo - Algoritmos
   - [X] Exercícios
-- [X] 4-4: _JavaScript - Objetos e funções_
+- [X] 4-4: _JavaScript - Objetos e funções_ :heavy_check_mark:
   - [X] Conteúdo - Objetos
   - [X] Conteúdo - For/in
   - [X] Conteúdo - Funções
@@ -95,19 +95,19 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
   - [X] Exercícios - Parte II
 - [X] 4-5: _[Projeto - Playground Functions](https://github.com/tryber/sd-07-project-playground-functions/pull/98)_
 
-##### Bloco 5: Introdução - JavaScript - Projetos
+##### Bloco 5: Introdução - JavaScript - Projetos :rocket:
 
-- [X] 5-1: _JavaScript - DOM e seletores_
+- [X] 5-1: _JavaScript - DOM e seletores_ :heavy_check_mark:
   - [X] Conteúdo - O DOM. Ou: como o HTML e o JavaScript se comunicam?
   - [X] Conteúdo - Seletores de elementos
   - [X] Conteúdo - Qual seletor usar?
   - [X] Exercícios
-- [X] 5-2: _JavaScript - Trabalhando com elementos_
+- [X] 5-2: _JavaScript - Trabalhando com elementos_ :heavy_check_mark:
   -[X] Conteúdo - Buscando elementos
   -[X] Conteúdo - Criando elementos
   -[X] Conteúdo - Removendo elementos
   -[X] Exercícios
-- [X] 5-3: _JavaScript - Eventos_
+- [X] 5-3: _JavaScript - Eventos_ :heavy_check_mark:
   - [X] Conteúdo - Parte I
   - [X] Conteúdo - Parte II
   - [X] Quiz
@@ -115,53 +115,53 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
   - [X] Exercícios - Parte II
   - [X] Exercícios - Parte III
   - [X] Exercícios - Parte IV 
-- [X] 5-4: _JavaScript - Web Storage_
+- [X] 5-4: _JavaScript - Web Storage_ :heavy_check_mark:
   - [X] Conteúdo - Cookies
   - [X] Conteúdo - Local e Session Storage
   - [X] Exercícios
-- [X] 5-5: _[Projeto - Meme Generator](https://github.com/tryber/sd-07-block5-project-meme-generator/pull/117)_
-- [X] 5-6: _[Projeto - Arte com Pixels](https://github.com/tryber/sd-07-block5-project-pixels-art/pull/60)_
-- [X] 5-7: _[Projeto - Lista de tarefas](https://github.com/tryber/sd-07-block5-project-todo-list/pull/56)_
+- [X] 5-5: _[Projeto - Meme Generator](https://github.com/tryber/sd-07-block5-project-meme-generator/pull/117)_ :heavy_check_mark:
+- [X] 5-6: _[Projeto - Arte com Pixels](https://github.com/tryber/sd-07-block5-project-pixels-art/pull/60)_ :heavy_check_mark:
+- [X] 5-7: _[Projeto - Lista de tarefas](https://github.com/tryber/sd-07-block5-project-todo-list/pull/56)_ :heavy_check_mark:
 - [ ] 5-7: _[Projeto - Adivinhe a Cor]()_
 - [ ] 5-7: _[Projeto - Carta Misteriosa]()_
 
-##### Bloco 6: Introdução - Front-end
+##### Bloco 6: Introdução - Front-end :rocket:
 
-- [X] 6-1: _HTML & CSS - Forms_
+- [X] 6-1: _HTML & CSS - Forms_ :heavy_check_mark:
   - [X] Conteúdo - Parte I
   - [X] Exercícios - Parte I
-- [X] 6-2: _Bibliotecas JavaScript e Frameworks CSS_
+- [X] 6-2: _Bibliotecas JavaScript e Frameworks CSS_ :heavy_check_mark:
   - [X] Conteúdo - Parte I
   - [X] Exercícios - Parte I
-- [X] 6-3: _CSS Flexbox - Part 1_
+- [X] 6-3: _CSS Flexbox - Part 1_ :heavy_check_mark:
   - [X] Conteúdo - Estrutura báscia, flex-direction, flex-wrap, flex-flow e reverse
   - [X] Conteúdo - Propriedades justify-content, align-content, align items
   - [X] Exercícios
-- [X] 6-4: _CSS Flexbox - Part 2_
+- [X] 6-4: _CSS Flexbox - Part 2_ :heavy_check_mark:
   - [X] Conteúdo - Propriedade: align-self
   - [X] Conteúdo - Propriedade: order
   - [X] Conteúdo - Propriedades: flex-grow, flex-shrink, flex-basis
   - [X] Conteúdo - Propriedade: Margin
   - [X] Conteúdo - Subcontainers e subitens
   - [X] Exercícios
-- [X] 6-5: _CSS Responsivo - Mobile First_
+- [X] 6-5: _CSS Responsivo - Mobile First_ :heavy_check_mark:
   - [X] Conteúdo - Parte I
   - [X] Conteúdo - Parte II
   - [X] Conteúdo - Parte III
   - [X] Exercícios - Parte I
   - [X] Exercícios - Parte II
   - [X] Exercícios - Parte III
-- [X] 6-6: _[Projeto - Página inicial do Facebook](https://github.com/tryber/sd-07-project-facebook-signup/pull/36)_
+- [X] 6-6: _[Projeto - Página inicial do Facebook](https://github.com/tryber/sd-07-project-facebook-signup/pull/36)_ :heavy_check_mark:
 
 ##### Bloco 7: JavaScript ES6 & Testes Unitários
 
-- [X] 7-1: _JavaScript ES6 - let, const, arrow functions e template literals_
+- [X] 7-1: _JavaScript ES6 - let, const, arrow functions e template literals_ :heavy_check_mark:
   - [X] Conteúdo - Parte I var, let e const
   - [X] Conteúdo - Parte II template literals
   - [X] Conteúdo - Parte III arrow functions
   - [X] Exercícios - Parte I
   - [X] Exercícios - Parte II
-- [X] 7-2: _JavaScript ES6 - Objects_
+- [X] 7-2: _JavaScript ES6 - Objects_ :heavy_check_mark:
   - [X] Conteúdo - Parte I - Adicionando novas chaves (keys)
   - [X] Conteúdo - Parte II - Object.keys
   - [X] Conteúdo - Parte III - Object.values
@@ -169,7 +169,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
   - [X] Conteúdo - Parte IV - Object.assign
   - [X] Exercícios - Parte I
   - [X] Exercícios - Parte II
-- [X] 7-3: _Testes unitários em JavaScript_
+- [X] 7-3: _Testes unitários em JavaScript_ :heavy_check_mark:
   - [X] Conteúdo
   - [X] Exercícios
 - [ ] 7-4: _[Projeto - JavaScript Testes Unitários]()_
