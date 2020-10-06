@@ -66,11 +66,11 @@ const books = [
 const expected_result = false;
 
 function authorUnique() {
-  return books.every((book) => {
-    !books.some((bookSome) => {
+  return books.every((book) => 
+    !books.some((bookSome) => 
       (book.author.birthYear === bookSome.author.birthYear) && (book.id != bookSome.id)
-    });
-  });
+    )
+  );
 }
 
 assert.equal(authorUnique(), expected_result);
