@@ -47,7 +47,7 @@ const books = [
     genre: 'Terror',
     author: {
       name: 'Stephen King',
-      birthYear: 1947
+      birthYear: 1947,
     },
     releaseYear: 1986,
   },
@@ -66,14 +66,11 @@ const books = [
 const expected_result = false;
 
 function authorUnique() {
-  books.forEach((book) => {
-      books.forEach((element) => {
-        if (book.author.birthYear === element.author.year) {
-            return false;
-        }
-      })
-  })
-  return true;
+  return books.every((book) => {
+    !books.some((bookSome) => {
+      (book.author.birthYear === bookSome.author.birthYear) && (book.id != bookSome.id)
+    });
+  });
 }
 
 assert.equal(authorUnique(), expected_result);
