@@ -7,14 +7,11 @@ const arrays = [
     [4, 5, 6]
 ];
 
-console.table(arrays);
+
+//  Dada uma matriz de matrizes, transforme em uma única matriz.
 
 function flatten() {
-  const flatten = arrays.reduce((accumulator, currentArray) => {
-    accumulator.push(currentArray.reduce((previousValue, currentValue) => previousValue.push(currentValue)));
-    return accumulator;
-  }, []);
-  return flatten;
+  return arrays.reduce((previousValue, currValue) => previousValue.concat(currValue), []);
 }
 
 assert.deepEqual(flatten(), ["1", "2", "3", true, 4, 5, 6]);
