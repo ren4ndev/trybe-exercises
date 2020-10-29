@@ -4,7 +4,7 @@
   "description": "Este repositório contém todas as atividades de aprendizagem desenvolvidas por _[Renan Oliveira](https://www.linkedin.com/in/renancoliveira/)_ enquanto estuda na [Trybe](https://www.betrybe.com/) :rocket:",
   "main": "index.js",
   "scripts": {
-    "test": "jest --watch"
+    "test": "jest"
   },
   "repository": {
     "type": "git",
