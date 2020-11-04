@@ -12,5 +12,5 @@ it('should return lower after upper', () => {
 
 	strings.cxAlta.mockRestore();
 
-	expect(cxAlta('upper')).toBe('UPPER');
+	expect(strings.cxAlta('upper')).toBe('UPPER');
 });
