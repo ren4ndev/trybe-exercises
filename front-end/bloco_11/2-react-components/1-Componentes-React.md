@@ -19,7 +19,7 @@ class HelloWorld extends React.Component {
 export default HelloWorld;
 
 ```
------------------------------------------------------------------------------------
+
 ## Recebendo props
 
 ```javascript
@@ -36,7 +36,6 @@ export default Greeting;
 
 ```
 
---------------------------------------------------------------------------------------
 ## Passando props na chamada do componente
 
 ```javascript
@@ -52,5 +51,3 @@ function App() {
 }
 
 ```
-
------------------------------------------------------------------------------------
