@@ -1,6 +1,6 @@
 import './App.css';
 
-const list = ['sleep', 'awake', 'exercise', 'eat', 'play'];
+const list = ['sleep', 'awake', 'exercise', 'eat', 'play', 'cry'];
 
 function App() {
   return (
