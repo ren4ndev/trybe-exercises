@@ -82,9 +82,9 @@ Incorporando Expressões em JSX:
 	);
 ```
 
-Sintaxe JSX:
+#### Sintaxe JSX:
 
-	Múltiplas linhas, código envolvido em parênteses. Ex:
+* Múltiplas linhas, código envolvido em parênteses. Ex:
 
 ```javascript
 	const element = (
@@ -93,6 +93,11 @@ Sintaxe JSX:
 		</h1>
 	);
 ```
+* Tags devem ser sempre fechadas
+
+	Ex:
+	`<br/>`
+	`<hr/>`
 
 *Documentação*: https://pt-br.reactjs.org/docs/introducing-jsx.html
 
@@ -119,3 +124,99 @@ Para renderizar um elemento React em um nó raiz, passe ambos para ReactDOM.rend
 ## CRIAÇÃO DE COMPONENTES FUNCIONAIS E DE CLASSE
 
 Componentes são peças reutilizáveis e com lógica isolada. Podem ser criados mediante FUNÇÕES ou com a criação de CLASSES.
+
+* Com funções
+
+```javascript
+
+//	Nome dos componentes em React sempre usando capitalize
+//	A função deve retornar um JSX entre parênteses ou null
+const MyComponent = function() {
+  return (
+    <div>Content</div>
+  )
+}
+
+```
+
+* Com classes
+
+```javascript
+
+//	Deve-se importar o React para poder usar os métodos da classe Component
+//	Há duas formas de fazer isso
+import React from 'react';
+//	Assim a classe deve extender React.Component
+import { Component } from 'react';
+//	Assim basta usar o extends Component
+
+class MyComponent extends React.Component {
+  constructor(props) {
+    super(props);
+  }
+  render() {
+    return (
+		<div>
+			<h1>Hello React!</h1>
+		</div>
+	);
+  }
+};
+
+
+```
+
+## COMPONDO COMPONENTES JUNTOS
+
+
+```javascript
+
+//	Arquivo ChildComponent.js
+const ChildComponent = () => {
+  return (
+    <div>
+      <p>I am the child</p>
+    </div>
+  );
+};
+
+//	Arquivo ParentComponent.js
+//	O componente pai deve primeiro importar o componente filho caso não estejam no mesmo arquivo
+import ChildComponent from ('./ChildComponent');
+
+class ParentComponent extends React.Component {
+  constructor(props) {
+    super(props);
+  }
+  render() {
+    return (
+      <div>
+        <h1>I am the parent</h1>
+        <ChildComponent />
+      </div>
+    );
+  }
+};
+
+```
+
+## ADICIONANDO UM COMENTÁRIO EM JSX
+
+```javascript
+
+	{/* comment */}
+
+```
+
+## Problemas com o watch do server React
+
+```
+	//	No root ~
+	sudo gedit /etc/sysctl.conf
+	//	Add a line at the bottom
+	//	#fs.inotify.max_user_watches=524288
+	//	Save and exit
+	//	To check it:
+	sudo sysctl -p
+
+```
