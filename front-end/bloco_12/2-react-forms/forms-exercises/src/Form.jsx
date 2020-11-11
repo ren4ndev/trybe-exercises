@@ -6,6 +6,8 @@ class Form extends React.Component {
 
     this.handleChange = this.handleChange.bind(this);
     this.handleDescription = this.handleDescription.bind(this);
+    this.handleName = this.handleName.bind(this);
+    this.handleLastName = this.handleLastName.bind(this);
 
     this.state = {
       estado: 'RJ',
@@ -19,9 +21,18 @@ class Form extends React.Component {
     this.setState({ descricao: event.target.value });
   }
 
+  handleName(event) {
+    this.setState({ nome: event.target.value });
+  }
+
   handleChange(event) {
     this.setState({ estado: event.target.value });
   }
+
+  handleLastName(event) {
+    this.setState({ sobrenome: event.target.value });
+  }
+
   render() {
     return (
       <form className="form">
@@ -35,11 +46,11 @@ class Form extends React.Component {
         </label>
         <label htmlFor="">
           Nome:
-          <input type="text" value={this.state.nome} onChange />
+          <input type="text" value={this.state.nome} onChange={this.handleName} />
         </label>
         <label htmlFor="">
           Sobrenome:
-          <input type="text"/>
+          <input type="text" value={this.state.sobrenome} onChange={this.handleLastName} />
         </label>
         <label htmlFor="">
           Descrição:
