@@ -69,3 +69,6 @@ class Form extends Component {
 export default Form;
 
 ```
+## Como fazer eventHandlers genéricos
+
+
