@@ -38,6 +38,9 @@ O Facebook criou um template para que a gente não se preocupe em configurar ess
 
 	`npm` //	NODE PACAKAGE MANAGER (utilizado para instalar os pacotes em nossas aplicações)
 	`npx` //	(executa o comando de um pacote sem instalá-lo em si)
+	
+	Para atualizar o npm:
+	`npm install -g npm@latest`
 
 
 ## CRIAR UM APP REACT E RODÁ-LO NO NAVEGADOR:
